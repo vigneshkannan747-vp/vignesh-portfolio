@@ -97,10 +97,10 @@ I've successfully worked with organizations across diverse sectors:
 
 I'm always open to discussing how I can help your organization achieve compliance, growth, and excellence.
 
-- **📧 Email:** [your-email@example.com]
-- **🔗 LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/vigneshkannan)
-- **📱 Phone:** [Your Phone Number]
-- **🌐 Website/Portfolio:** [Your Website URL]
+- **📧 Email:** vigneshkannan747@gmail.com
+- **🔗 LinkedIn:** [www.linkedin.com/in/vigneshp747](https://www.linkedin.com/in/vigneshp747)
+- **📱 Phone:** +91 8056762994
+- **💼 Available for:** Consulting | Training | Business Development | Speaking Engagements
 
 ---
 
