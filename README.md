@@ -1,6 +1,6 @@
 # Hi, I'm Vignesh Kannan 👋
 
-## Business Development Manager | ISO Consultant | Corporate Trainer
+## Business Development Manager | ISO Consultant | Certified ISMS Lead Auditor
 
 With **9.6+ years of B2B sales expertise** and deep knowledge in **ISO consulting & corporate training**, I help organizations build robust systems, achieve compliance, and develop their teams.
 
@@ -11,7 +11,7 @@ With **9.6+ years of B2B sales expertise** and deep knowledge in **ISO consultin
 - **Current Role:** Business Development Manager & ISO Consultant
 - **Specialization:** ISO 27001:2022 ISMS Lead Auditor
 - **Experience:** 9.6+ Years in B2B Sales & Business Development
-- **Industries:** Manufacturing, IT, Healthcare, Education & Hospitality
+- **Industries:** Manufacturing, IT, Healthcare, Education & Food processing
 
 ---
 
@@ -46,7 +46,8 @@ I've successfully worked with organizations across diverse sectors:
 - 🏭 **Manufacturing** - Process optimization, Quality & Safety compliance
 - 💻 **IT & Software** - Information Security, Data Protection, Risk Management
 - 🏥 **Healthcare** - Patient Safety, Data Confidentiality, Regulatory Compliance
-- 🎓 **Education** - Institutional Quality, Student Data Protection, Governance
+- 🎓 **Food Processing** - Food Safety Managemen,Internal Auditing
+Corporate Training
 - 🏨 **Hospitality** - Service Quality, Operational Excellence, Risk Management
 
 ---
@@ -77,7 +78,7 @@ I've successfully worked with organizations across diverse sectors:
 
 - ✅ Successfully guided 50+ organizations through ISO 27001 implementation & certification
 - ✅ Delivered 100+ corporate training programs to 2,000+ professionals
-- ✅ Generated multi-million dollar revenue through B2B sales initiatives
+- ✅ Generated monthly and yearly revenue through B2B sales initiatives
 - ✅ Maintained 95%+ client retention and satisfaction rates
 - ✅ Expanded business operations across 4+ geographic regions
 
